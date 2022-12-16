@@ -1,0 +1,78 @@
+{
+    "onepiece": [
+        {
+            "id":1,
+            "nombre": "Monkey D. Luffy",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239",
+            "ocupation":"Capitan-Pirata",
+            "devilfruit": "Gomu Gomu no Mi"
+
+        },
+        {
+            "id":2,
+            "nombre": "Roronoa Zoro",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188",
+            "ocupation":"Espadachín",
+            "devilfruit": ""
+        },
+        {
+            "id":3,
+            "nombre": "Nami",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/298",
+            "ocupation":"Navigator",
+            "devilfruit": ""      
+        },
+        {
+            "id":4,
+            "nombre": "Ussop",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/269",
+            "ocupation":"Francotirador",
+            "devilfruit": ""    
+        },
+        {
+            "id":5,
+            "nombre": "Sanji",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167",
+            "ocupation":"Cocinero",
+            "devilfruit": ""  
+        },
+        {
+            "id":6,
+            "nombre": "Tony Tony Chopper",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350",
+            "ocupation":"Medico",
+            "devilfruit": "Hito Hito no Mi"  
+        },
+        {
+            "id":7,
+            "nombre": "Nico Robin",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/257",
+            "ocupation":"Arqueólogo",
+            "devilfruit": "Hana Hana no Mi"  
+        },
+        {
+            "id":8,
+            "nombre": "Franky",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350",
+            "ocupation":"Carpintero de barcos",
+            "devilfruit": ""  
+        },
+        {
+            "id":9,
+            "nombre": "Brook",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214",
+            "ocupation":"Músico, Espadachín",
+            "devilfruit": "Yomi Yomi no Mi"  
+        },
+        {
+            "id":10,
+            "nombre": "Jinbe",
+            "img": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214",
+            "ocupation":"Timonel",
+            "devilfruit": ""  
+        }
+    ],
+    "profile": {
+        "name": "Migue"
+    }
+}
